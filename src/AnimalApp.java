@@ -1,6 +1,7 @@
 
 public class AnimalApp {
 
+	/**Testing commit changes*/
 	public static void main(String[] args) {
 
 		Animal a = new Animal();
